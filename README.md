@@ -11,3 +11,6 @@ Taking one or two files containing k-tiles as input, as well as the desired widt
 
 ## lcl_utils.py
 A collection of miscellaneous helper functions used by the other programs.
+
+## solver.py
+Solves a given LCL problem for a given graph. Outputs the solution as a string representation of a Python dict.
